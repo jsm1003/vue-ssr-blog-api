@@ -1,0 +1,24 @@
+{
+  "name": "api-exp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node --harmony server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wangxiao/romantic.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "highlight.js": "^9.9.0",
+    "leanengine": "^1.2.3",
+    "marked": "^0.3.6"
+  },
+  "engines": {
+    "node": "^7.2.0"
+  },
+  "devDependencies": {}
+}
