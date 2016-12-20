@@ -37,7 +37,8 @@ router.post('/draft/edit/publishold', islogin, post.publishOld)
 router.post('/draft/edit/publishnew', islogin, post.publishNew)
 //发布新文章
 
-// --- 用户登陆 ---
+// --- 用户登陆等 ---
+router.post('/user/signup', user.signup)
 router.post('/user/login', user.login)
 router.post('/user/logout', islogin, user.logout)
 //router.post('/posts', post.test)

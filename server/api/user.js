@@ -1,6 +1,14 @@
 const AV = require('leanengine');
 
 module.exports = {
+    async signup (req, res) {
+      var user = new AV.User()
+      user.setUsername(req.body.username)
+      user.setPassword(req.body.password)
+      user.setEmail(req.body.email)
+      var nUser = await user.signUp()
+      res.json({code: 200, msg:'用户注册成功'})
+    },
      async login (req, res) {
        var json = {}
        try {
