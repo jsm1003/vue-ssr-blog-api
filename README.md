@@ -1,5 +1,7 @@
  # 后端api服务器
 
+首先请确保你的node版本在7.0以上 该项目使用的node版本为7.2
+
 首先注册leancloud账号https://leancloud.cn
 然后 创建一个应用 应用名为 test
 
