@@ -5,4 +5,5 @@ dist
 bower_components
 test/bower_components
 .avoscloud/
+.leancloud
 npm-debug.log
