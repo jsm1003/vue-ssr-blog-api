@@ -6,7 +6,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wangxiao/romantic.git"
+    "url": "https://github.com/ZinCode/vue-ssr-blog-api"
   },
   "license": "MIT",
   "dependencies": {
@@ -15,7 +15,8 @@
     "express": "^4.14.0",
     "highlight.js": "^9.9.0",
     "leanengine": "^1.2.3",
-    "marked": "^0.3.6"
+    "marked": "^0.3.6",
+    "multiparty": "^4.1.2"
   },
   "engines": {
     "node": "^7.2.0"

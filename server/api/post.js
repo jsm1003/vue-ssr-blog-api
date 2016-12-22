@@ -1,7 +1,6 @@
 const AV = require('leanengine');
 const marked = require('marked');
 const hljs = require('highlight.js')
-
 marked.setOptions({
   highlight (code, lang) {
     var res;

@@ -1,6 +1,5 @@
 'use strict';
 
-const domain = require('domain');
 const express = require('express');
 const bodyParser = require('body-parser')
 const path = require('path');
