@@ -19,6 +19,7 @@ marked.setOptions({
 //answer: 服务端设置404页面就不用在修改文章的时候多一层判断了
 
 //以后应该把这些都弄成单var模式比较好？
+//登陆用户修改其他用户的文章这里要加一个判断，以后在做
 
 module.exports = {
     async getTopics ({query:{limit, page, id}}, res) {

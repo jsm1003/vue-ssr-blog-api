@@ -1,8 +1,9 @@
 // 所有 API 的路由
 
-const router = require('express').Router();
+const router = require('express').Router()
 const post = require('./api/post')
 const user = require('./api/user')
+const resume = require('./api/resume')
 
 const islogin = require('./middlewares/isLogin')
 
@@ -46,6 +47,8 @@ router.post('/user/logout', islogin, user.logout)
 // --- 用户个人信息 ---
 router.get('/user/info', islogin, user.info)
 // --- admin ---
+
+router.get('/resume',resume.getResume)
 
 // 其他接口全部返回 404
 router.use((req, res) => {

@@ -1,0 +1,105 @@
+{
+    "bascinfo": {
+        "name": "josephine",
+        "description": "Different but not less",
+        "avatar": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4ndWMAT5LlrQh3U5H_W9QgcNtxJRvmFvvEDEVqK_sgOQXsRNG",
+        "background": "http://www.51pptmoban.com/d/file/2014/03/29/b817c21792a828fc471254626d1a2398.jpg"
+    },
+    "info": {
+        "offer": "前端工程师/JS工程师",
+        "edication": "本科",
+        "profession": "自动化",
+        "sex": "男",
+        "age": "24",
+        "phone": "183-3311-6993",
+        "email": "838432498@qq.com",
+        "workAge": "2015届毕业"
+    },
+    "list": [
+        {
+            "type": "web前端",
+            "item": [
+                {
+                    "summary": "HTML/CSS",
+                    "description": [
+                        "能够编写语义化的`HTML`,模块化的`CSS`, 实现较复杂的css布局及动画",
+                        "熟悉并能够使用HTML5/CSS3的新特性，做到响应式布局,了解Sass等css预处理器"
+                    ]
+                },
+                {
+                    "summary": "`ECMAScript`(`JavaScript`)",
+                    "description": [
+                        "了解js原型链，闭包，对象的特性等常用知识",
+                        "可以使用ES6+的最新语法，尝试了解typestript"
+                    ]
+                },
+                {
+                    "summary": "`DOM/BOM/Web API`",
+                    "description": [
+                        "能够使用如web存储，notifacation等webAPI",
+                        "了解DOM树，浏览器缓存，HTTP协议等"
+                    ]
+                },
+                {
+                    "summary": "前端工程实践",
+                    "description": [
+                        "熟悉并能够使用vue.js框架，webapck，npm，ESlint等现代化前端方案",
+                        "熟悉并能够使用jQuery,Bootstrap,zepto, underscore等类库和框架",
+                        "尝试学习React、Angular、d3.js、RxJs、微信小程序等主流框架和类库",
+                        "关注webVR、PWA、webAssembly等新前端新方向"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "web后端",
+            "item": [
+                {
+                    "summary": "Node.js",
+                    "description": [
+                        "了解并使用express/koa框架搭建前端开发环境、后端服务器",
+                        ""
+                    ]
+                },
+                {
+                    "summary": "数据库",
+                    "description": [
+                        "了解数据库结构，mongoDB非关系型数据库",
+                        "了解并能够使用baas后端云服务"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "其他",
+            "item": [
+                "使用git进行代码管理，用Github进行代码托管",
+                "能够使用 `Markdown` 编写博客，具备良好的技术交流能力",
+                "有一定审美能力，专注功能实现/框架重构/交互优化，简单使用PS"
+            ]
+        },
+        {
+            "type": "项目实践",
+            "item": [
+                {
+                    "summary": "jkell博客",
+                    "description": [
+                        "使用Bootstrap布局，iconfont，jQuery，typed.js等插件完成",
+                        "托管在git-pages,实现基本的静态博客功能"
+                    ]
+                },
+                {
+                    "summary": "Vue多人博客（未完成）",
+                    "description": [
+                        "使用vue2.1，前后端同构的SPA应用，对SEO友好",
+                        "使用ES6+语法，webpack配置开发环境，css使用flex响应式布局,帧动画",
+                        "后端使用基于node.js的express框架搭建服务器",
+                        "编写Restful风格的api接口",
+                        "使用leancloud作为baas云存储服务",
+                        "实现多用户，在线攥写并发布文章，查看草稿，草稿实时保存等功能"
+                    ]
+                }
+            ]
+        }
+    ]
+}

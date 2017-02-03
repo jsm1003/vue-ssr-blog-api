@@ -2,7 +2,8 @@
   "name": "api-exp",
   "version": "1.0.0",
   "scripts": {
-    "start": "node --harmony server"
+    "start": "node --harmony server",
+    "dev": "./node_modules/.bin/nodemon --harmony server"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,7 @@
   "engines": {
     "node": "^7.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
