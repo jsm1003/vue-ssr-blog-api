@@ -1,19 +1,18 @@
 {
-    "bascinfo": {
-        "name": "josephine",
-        "description": "Different but not less",
-        "avatar": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4ndWMAT5LlrQh3U5H_W9QgcNtxJRvmFvvEDEVqK_sgOQXsRNG",
-        "background": "http://www.51pptmoban.com/d/file/2014/03/29/b817c21792a828fc471254626d1a2398.jpg"
+    "basicInfo": {
+        "name": "Josephine",
+        "description": "Different, but not less",
+        "avatar": "http://oaxfgzulv.bkt.clouddn.com/auth.jpg",
+        "background": "http://oaxfgzulv.bkt.clouddn.com/winter.jpg"
     },
     "info": {
         "offer": "前端工程师/JS工程师",
-        "edication": "本科",
-        "profession": "自动化",
-        "sex": "男",
-        "age": "24",
+        "education": "河北科技大学",
         "phone": "183-3311-6993",
+        "github": "https://github.com/ZinCode",
         "email": "838432498@qq.com",
-        "workAge": "2015届毕业"
+        "wechat":"iFaye-14",
+        "address": "http://josephine.leanapp.cn/about/resume"
     },
     "list": [
         {
@@ -27,14 +26,14 @@
                     ]
                 },
                 {
-                    "summary": "`ECMAScript`(`JavaScript`)",
+                    "summary": "ECMAScript(JavaScript)",
                     "description": [
                         "了解js原型链，闭包，对象的特性等常用知识",
                         "可以使用ES6+的最新语法，尝试了解typestript"
                     ]
                 },
                 {
-                    "summary": "`DOM/BOM/Web API`",
+                    "summary": "DOM/BOM/Web API",
                     "description": [
                         "能够使用如web存储，notifacation等webAPI",
                         "了解DOM树，浏览器缓存，HTTP协议等"
@@ -46,7 +45,7 @@
                         "熟悉并能够使用vue.js框架，webapck，npm，ESlint等现代化前端方案",
                         "熟悉并能够使用jQuery,Bootstrap,zepto, underscore等类库和框架",
                         "尝试学习React、Angular、d3.js、RxJs、微信小程序等主流框架和类库",
-                        "关注webVR、PWA、webAssembly等新前端新方向"
+                        "关注webVR、PWA、webAssembly等前端新方向"
                     ]
                 }
             ]
@@ -57,8 +56,7 @@
                 {
                     "summary": "Node.js",
                     "description": [
-                        "了解并使用express/koa框架搭建前端开发环境、后端服务器",
-                        ""
+                        "了解并使用express/koa框架搭建前端开发环境、后端服务器"
                     ]
                 },
                 {
@@ -82,14 +80,14 @@
             "type": "项目实践",
             "item": [
                 {
-                    "summary": "jkell博客",
+                    "summary": "jkell博客 https://zincode.github.io",
                     "description": [
                         "使用Bootstrap布局，iconfont，jQuery，typed.js等插件完成",
                         "托管在git-pages,实现基本的静态博客功能"
                     ]
                 },
                 {
-                    "summary": "Vue多人博客（未完成）",
+                    "summary": "Vue多人博客 http://josephine.leanapp.cn",
                     "description": [
                         "使用vue2.1，前后端同构的SPA应用，对SEO友好",
                         "使用ES6+语法，webpack配置开发环境，css使用flex响应式布局,帧动画",
