@@ -21,7 +21,7 @@
                 {
                     "summary": "HTML/CSS",
                     "description": [
-                        "能够编写语义化的`HTML`,模块化的`CSS`, 实现较复杂的css布局及动画",
+                        "能够编写语义化的`HTML`，模块化的`CSS`， 实现较复杂的css布局及动画",
                         "熟悉并能够使用HTML5/CSS3的新特性，做到响应式布局,了解Sass等css预处理器"
                     ]
                 },
@@ -42,8 +42,8 @@
                 {
                     "summary": "前端工程实践",
                     "description": [
-                        "熟悉并能够使用vue.js框架，webapck，npm，ESlint等现代化前端方案",
-                        "熟悉并能够使用jQuery,Bootstrap,zepto, underscore等类库和框架",
+                        "熟悉并能够使用vue.js框架、webapck、npm、ESlint等现代化前端方案",
+                        "熟悉并能够使用jQuery、Bootstrap、zepto、 underscore等类库和框架",
                         "尝试学习React、Angular、d3.js、RxJs、微信小程序等主流框架和类库",
                         "关注webVR、PWA、webAssembly等前端新方向"
                     ]
@@ -83,14 +83,14 @@
                     "summary": "jkell博客 https://zincode.github.io",
                     "description": [
                         "使用Bootstrap布局，iconfont，jQuery，typed.js等插件完成",
-                        "托管在git-pages,实现基本的静态博客功能"
+                        "托管在git-pages，实现基本的静态博客功能"
                     ]
                 },
                 {
                     "summary": "Vue多人博客 http://josephine.leanapp.cn",
                     "description": [
                         "使用vue2.1，前后端同构的SPA应用，对SEO友好",
-                        "使用ES6+语法，webpack配置开发环境，css使用flex响应式布局,帧动画",
+                        "使用ES6+语法，webpack配置开发环境，css使用flex响应式布局，帧动画",
                         "后端使用基于node.js的express框架搭建服务器",
                         "编写Restful风格的api接口",
                         "使用leancloud作为baas云存储服务",
